@@ -103,5 +103,5 @@ http://localhost:8080/swagger-ui.html
 
 If you have any questions or suggestions regarding this sample Spring Boot application, please feel free to contact us at [me@mahmud.dev](mailto:me@mahmud.dev).
 
-##License
+## License
 This project serves as a sample demonstration and is provided as an open-source resource, allowing you complete freedom to utilize it as needed.
